@@ -29,7 +29,7 @@ function Signup() {
           <div className="div orab">
             {" "}
             <p className="sar">Your logo</p>
-            <h2 className="sar">Log in</h2>
+            <h2 className="sar">SignUp</h2>
           </div>
           <div className="orab">
             <p className="tit">User Name</p>
